@@ -21,7 +21,7 @@ const Banner = () => {
           className="img-three"
         />
       </div>
-      <div className="container">
+            <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-10">
             <div className="banner-content text-center">
@@ -32,10 +32,13 @@ const Banner = () => {
               Makes DEX trading simple, accessible, and affordable on <span>Ethereum</span> L1 and L2’s.
               </h2>
             </div>
+          </div>
+        </div>
         <div className="row justify-content-center">
           <div className="col-xl-10">
           </div>
         </div>
+      </div>
     </section>
   );
 };
