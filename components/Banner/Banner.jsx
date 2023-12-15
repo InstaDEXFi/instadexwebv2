@@ -51,7 +51,7 @@ const Banner = () => {
                 />
               </div>
               <h4 className="title">
-                0% target raised <span>1 USDT - 0.00044 ETH = 45 $IDEX Tokens</span>
+                0% target raised <span>1 USDT - 0.00044 ETH = 45 $IDEX Tokens</span> <span>5M $IDEX Tokens for ICO</span>
               </h4>
             </div>
           </div>
