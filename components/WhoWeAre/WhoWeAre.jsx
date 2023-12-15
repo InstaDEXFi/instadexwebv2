@@ -22,7 +22,7 @@ const WhoWeAre = () => {
               <p>
               InstaDEX utilizes smart contracts to tackle issues encountered daily by blockchain users. We aim to contribute to the core blockchain values of trust, decentralization and innovation while reducing costs to users while doing so. We are constantly working to become an indispensable part of the decentralized community.
               </p>
-              <Link href="/" className="btn">
+              <Link href="https://forms.gle/iBFJv8H1oiCtRJBW7" className="btn">
                 Purchase Tokens
               </Link>
             </div>
