@@ -44,10 +44,10 @@ const Banner = () => {
                 <div
                   className="progress-bar"
                   role="progressbar"
-                  style={{ width: "75%" }}
-                  aria-valuenow="75"
+                  style={{ width: "70" }}
+                  aria-valuenow="0"
                   aria-valuemin="0"
-                  aria-valuemax="100"
+                  aria-valuemax="0"
                 />
               </div>
               <h4 className="title">
