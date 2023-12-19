@@ -60,7 +60,7 @@ const FooterOne = () => {
                   className="footer-widget  wow fadeInUp"
                   data-wow-delay=".4s"
                 >
-                  <h4 className="fw-title">Useful Links</h4>
+                  <h4 className="fw-title">HOME</h4>
                   <div className="footer-link">
                     <ul>
                       <li>
@@ -84,7 +84,7 @@ const FooterOne = () => {
                   className="footer-widget wow fadeInUp"
                   data-wow-delay=".6s"
                 >
-                  <h4 className="fw-title">Community</h4>
+                  <h4 className="fw-title">USEFUL LINKS</h4>
                   <div className="footer-link">
                     <ul>
                       <li>
