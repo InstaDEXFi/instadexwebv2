@@ -2,7 +2,7 @@ import React from "react";
 
 const TopPartners = () => {
   const partners_list = [
-    { src: "/img/partner/psalms.png", title: "" },
+    { src: "/img/partner/pinksale.png", title: "" },
     { src: "/img/partner/aimails.png", title: "" },
   ];
 
