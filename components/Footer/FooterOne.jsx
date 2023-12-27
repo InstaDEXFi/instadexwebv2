@@ -126,7 +126,7 @@ const FooterOne = () => {
             <div className="row align-items-center">
               <div className="col-lg-6">
                 <div className="copyright-text">
-                  <p>Copyright &copy; 2023. All Rights Reserved InstaDEX.finance</p>
+                  <p>Copyright &copy; 2023. All Rights Reserved InstaDEX.Finance</p>
                 </div>
               </div>
               <div className="col-lg-6 d-none d-sm-block">
