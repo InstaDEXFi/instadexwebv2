@@ -32,9 +32,7 @@ const TopPartners = () => {
                     <img src="/img/partner/cyberscope.png" alt="cyberscope" />
                   </li>
                   <li key="etherscan">
-                    <a href="">
                     <img src="/img/partner/etherscan.png"alt="etherscan" />
-                    </a>
                   </li>
               </ul>
             </div>
