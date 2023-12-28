@@ -69,27 +69,28 @@ const TopPartners = () => {
         </div>
       </div>
       <div className="container">
-        <div className="row justify-content-center">
-          <div className="col-lg-8">
-            <div className="section-title text-center mb-10">
-              <span className="sub-title">powered by</span>
-              </div>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-lg-12">
-            <div className="partner-wrap">
-              <ul>
-                  <li key="">
-                    <img src="/img/partner/chainlink.svg" alt="" />
-                  </li>
-                  <li key="coinscope">
-                    <img src="/img/partner/uniswap.svg"alt="" />
-                  </li>
-              </ul>
-            </div>
-          </div>
-        </div>
+  <div className="row justify-content-center">
+    <div className="col-lg-8">
+      <div className="section-title text-center mb-10">
+        <span className="sub-title">powered by</span>
+      </div>
+    </div>
+  </div>
+  <div className="row justify-content-center">
+    <div className="col-lg-12">
+      <div className="partner-wrap">
+        <ul>
+          <li key="">
+            <img src="/img/partner/chainlink.svg" alt="" />
+          </li>
+          <li key="coinscope">
+            <img src="/img/partner/uniswap.svg" alt="" />
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
       </div>
       <div className="container">
         <div className="row justify-content-center">
