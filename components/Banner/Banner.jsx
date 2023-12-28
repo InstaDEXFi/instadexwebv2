@@ -31,9 +31,9 @@ const Banner = () => {
               <h2 className="">
               Makes DEX trading simple, accessible, and affordable on <span>Ethereum</span> L1 and L2’s.
               </h2>
-              <h2 className="">
-              CA COMING SOON
-              </h2>
+           <h1 className="title">
+              <span>CA COMING SOON</span>
+              </h1>
             </div>
           </div>
         </div>
