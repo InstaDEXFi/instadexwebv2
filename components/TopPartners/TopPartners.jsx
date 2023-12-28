@@ -20,16 +20,21 @@ const TopPartners = () => {
           <div className="col-lg-12">
             <div className="partner-wrap">
               <ul>
-                  <li key="">
-                    <img src="/img/partner/dexvie.png" alt="" />
+                  <li key="dexview">
+                    <img src="/img/partner/dexvie.png" alt="dexview" />
                   </li>
                   <li key="coinscope">
                     <a href="https://www.coinscope.co/coin/idex">
                     <img src="/img/partner/coinscope.png"alt="" />
                     </a>
                   </li>
-                  <li key="">
-                    <img src="/img/partner/cyberscope.png" alt="" />
+                  <li key="cyberscope">
+                    <img src="/img/partner/cyberscope.png" alt="cyberscope" />
+                  </li>
+                  <li key="etherscan">
+                    <a href="">
+                    <img src="/img/partner/etherscan.png"alt="etherscan" />
+                    </a>
                   </li>
               </ul>
             </div>
