@@ -100,45 +100,6 @@ const FooterOne = () => {
                   </div>
                 </div>
               </div>
-              <div className="footer-top">
-            <div className="row">
-              <div className="col-xl-3 col-lg-4 col-md-6">
-                <div
-                  className="footer-widget wow fadeInUp"
-                  data-wow-delay=".2s"
-                >
-                  <Link href="/" className="f-logo">
-                    <img src={"/img/logo/logo_idex.png"} alt="InstaDEX Logo" />
-                  </Link>
-                  <div className="footer-content">
-                    <p>
-                    Makes DEX Trading Simple, Accessible, And Affordable On Ethereum L1 And L2’S.
-                    </p>
-                    <ul className="footer-social">
-                    <li>
-                        <a href="https://twitter.com/InstadexFi">
-                          <i className="fab fa-twitter"></i>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://www.linkedin.com/company/instadexfi">
-                          <i className="fab fa-linkedin-in"></i>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://t.me/instadexfi">
-                          <i className="fab fa-telegram-plane"></i>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://github.com/InstaDEXFi">
-                          <i className="fab fa-github"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
           <div className="footer-bottom">
