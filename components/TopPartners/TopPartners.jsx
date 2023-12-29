@@ -32,7 +32,9 @@ const TopPartners = () => {
                     <img src="/img/partner/cyberscope.png" alt="cyberscope" />
                   </li>
                   <li key="etherscan">
+                    <a href="https://etherscan.io/token/0xd5a9d3396da7472551561f0e872e677ca2227a6b">
                     <img src="/img/partner/etherscan.png"alt="etherscan" />
+                    </a>
                   </li>
                   <li key="gemsradar">
                     <a href="https://gemsradar.com/coins/instadex">
