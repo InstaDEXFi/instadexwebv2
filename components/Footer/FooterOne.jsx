@@ -105,9 +105,18 @@ const FooterOne = () => {
                   className="footer-widget wow fadeInUp"
                   data-wow-delay=".8s"
                 >
-                  <Link href="/" className="f-logo">
-                    <img src={"/img/logo/logo_idex.png"} alt="InstaDEX Logo" />
-                  </Link>
+                  <h4 className="fw-title">Subscribe Newsletter</h4>
+                  <div className="footer-newsletter">
+                    <form action="mailto:contaxt@instadex.finance">
+                      <input
+                        type="email"
+                        placeholder="contact@instadex.finance"
+                        required
+                      />
+                      <button type="submit">
+                        <i className="fas fa-paper-plane"></i>
+                      </button>                    
+                    </form>
                   </div>
                 </div>
               </div>
