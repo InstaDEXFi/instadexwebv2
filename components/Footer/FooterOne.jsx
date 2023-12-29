@@ -100,6 +100,16 @@ const FooterOne = () => {
                   </div>
                 </div>
               </div>
+              <div className="col-xl-3 col-lg-5 col-sm-6">
+              <div
+                  className="footer-widget wow fadeInUp"
+                  data-wow-delay=".2s"
+                >
+                  <Link href="/" className="f-logo">
+                    <img src={"/img/images/audit.png"} alt="Audit By Cyberscope" />
+                  </Link>
+                </div>
+              </div>
             </div>
           </div>
           <div className="footer-bottom">
