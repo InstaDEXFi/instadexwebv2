@@ -34,6 +34,10 @@ const TopPartners = () => {
                   <li key="etherscan">
                     <img src="/img/partner/etherscan.png"alt="etherscan" />
                   </li>
+                  <li key="gemsradar">
+                    <a href="https://gemsradar.com/coins/instadex">
+                    <img src="/img/partner/gems.svg"alt="gemsradar" />
+                    </a>
               </ul>
             </div>
           </div>
