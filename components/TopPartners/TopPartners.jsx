@@ -29,7 +29,9 @@ const TopPartners = () => {
                     </a>
                   </li>
                   <li key="cyberscope">
+                    <a href="https://www.cyberscope.io/audits/idex">
                     <img src="/img/partner/cyberscope.png" alt="cyberscope" />
+                    </a>
                   </li>
                   <li key="etherscan">
                     <a href="https://etherscan.io/token/0xd5a9d3396da7472551561f0e872e677ca2227a6b">
