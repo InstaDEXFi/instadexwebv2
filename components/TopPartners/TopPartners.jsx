@@ -43,6 +43,11 @@ const TopPartners = () => {
                     <img src="/img/partner/gems.png"alt="gemsradar" />
                     </a>
                     </li>
+                  <li key="poolzboost">
+                    <a href="https://www.poolz.finance/boost/62">
+                    <img src="/img/partner/poolz.png"alt="poolzboost" />
+                    </a>
+                    </li>
               </ul>
             </div>
           </div>
