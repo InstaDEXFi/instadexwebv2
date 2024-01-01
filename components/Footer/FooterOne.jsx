@@ -105,7 +105,7 @@ const FooterOne = () => {
                   className="footer-widget wow fadeInUp"
                   data-wow-delay=".2s"
                 >
-                  <Link href="/" className="f-logo">
+                  <Link href="https://www.cyberscope.io/audits/idex" className="f-logo">
                     <img src={"/img/images/audit.png"} alt="Audit By Cyberscope" />
                   </Link>
                 </div>
