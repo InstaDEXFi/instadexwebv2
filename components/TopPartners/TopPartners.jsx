@@ -4,6 +4,7 @@ const TopPartners = () => {
   const partners_list = [
     { src: "/img/partner/pinksale.png", title: "" },
     { src: "/img/partner/aimails.png", title: "" },
+    { src: "/img/partner/gotbit.svg", title: "" },
   ];
 
   return (
