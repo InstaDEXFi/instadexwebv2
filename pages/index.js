@@ -8,6 +8,7 @@ import WhoWeAre from "@/components/WhoWeAre/WhoWeAre";
 import WhyChooseUs from "@/components/WhyChooseUs/WhyChooseUs";
 import LayoutOne from "@/layouts/LayoutOne";
 import Faq from "@/components/Faq/Faq";
+import CountDownOne from "@/componets/CountDown/CountDownOne;
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
 
       <LayoutOne>
         <main className="fix">
+          <CountDownOne />
           <Banner />
           <WhoWeAre />
 
