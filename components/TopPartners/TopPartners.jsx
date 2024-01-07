@@ -2,7 +2,7 @@ import React from "react";
 
 const TopPartners = () => {
   const partners_list = [
-    { src: "/img/partner/pinksale.png", title: "" },
+    { src: "/img/partner/pinksale.png", link="https://www.pinksale.finance/launchpad/0x9863F54b8a85101B4E8eBDc5101c70C41206008f?chain=ETH", title: "" },
     { src: "/img/partner/aimails.png", title: "" },
     { src: "/img/partner/gotbit.svg", title: "" },
     { src: "/img/partner/fleamint.png", title: "" },
