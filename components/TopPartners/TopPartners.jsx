@@ -23,7 +23,9 @@ const TopPartners = () => {
             <div className="partner-wrap">
               <ul>
                   <li key="dexview">
+                    <a href="https://www.dexview.com/">
                     <img src="/img/partner/dexvie.png" alt="dexview" />
+                    </a>
                   </li>
                   <li key="coinscope">
                     <a href="https://www.coinscope.co/coin/idex">
