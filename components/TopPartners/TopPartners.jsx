@@ -121,13 +121,19 @@ const TopPartners = () => {
                     </a>
                   </li>
                   <li key="coinscope">
+                    <a href="https://aimalls.app/">
                     <img src="/img/partner/aimails.png"alt="" />
+                    </a>
                   </li>
                   <li key="">
+                    <a href="https://gotbit.io/">
                     <img src="/img/partner/gotbit.svg" alt="" />
+                    </a>
                   </li>
                   <li key="">
+                    <a href="https://www.fleamint.com/">
                     <img src="/img/partner/fleamint.png" alt="" />
+                    </a>
                   </li>
               </ul>
             </div>
