@@ -22,8 +22,8 @@ const WhoWeAre = () => {
               <p>
               InstaDEX utilizes smart contracts to tackle issues encountered daily by blockchain users. We aim to contribute to the core blockchain values of trust, decentralization and innovation while reducing costs to users while doing so. We are constantly working to become an indispensable part of the decentralized community.
               </p>
-              <Link href="" className="btn">
-                Purchase Tokens
+              <Link href="https://www.pinksale.finance/launchpad/0x9863F54b8a85101B4E8eBDc5101c70C41206008f?chain=ETH" className="btn">
+                Purchase Tokens On PinkSale
               </Link>
             </div>
           </div>
