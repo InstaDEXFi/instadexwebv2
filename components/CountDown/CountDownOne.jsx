@@ -8,13 +8,13 @@ const CountDownOne = () => {
       return (
         <>
           <div className="time-count day">
-            <span>{"00"}</span>Days
+            <span>{"2"}</span>Days
           </div>
           <div className="time-count hour">
-            <span>{"00"}</span>hour
+            <span>{"8"}</span>hour
           </div>
           <div className="time-count min">
-            <span>{"00"}</span>minute
+            <span>{"30"}</span>minute
           </div>
           <div className="time-count sec">
             <span>{"00"}</span>second
