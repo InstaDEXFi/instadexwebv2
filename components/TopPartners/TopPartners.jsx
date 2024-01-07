@@ -130,7 +130,6 @@ const TopPartners = () => {
                     <img src="/img/partner/fleamint.png" alt="" />
                   </li>
               </ul>
-              </ul>
             </div>
           </div>
         </div>
