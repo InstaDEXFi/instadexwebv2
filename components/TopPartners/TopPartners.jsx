@@ -1,14 +1,7 @@
 import React from "react";
 
 const TopPartners = () => {
-  const partners_list = [
-    { src: "/img/partner/pinksale.png", title: "PinkSale Finance", link: "https://www.pinksale.finance/launchpad/0x9863F54b8a85101B4E8eBDc5101c70C41206008f?chain=ETH" },
-    { src: "/img/partner/aimails.png", title: "" },
-    { src: "/img/partner/aimails.png", title: "" },
-    { src: "/img/partner/gotbit.svg", title: "" },
-    { src: "/img/partner/fleamint.png", title: "" },
-  ];
-
+  
   return (
     <div className="partner-area pb-130">
       <div className="container">
@@ -122,11 +115,21 @@ const TopPartners = () => {
           <div className="col-lg-12">
             <div className="partner-wrap">
               <ul>
-                {partners_list.map((item, index) => (
-                  <li key={index}>
-                    <img src={item.src} alt={item.title} />
+                  <li key="">
+                    <a href="https://www.pinksale.finance/launchpad/0x9863F54b8a85101B4E8eBDc5101c70C41206008f?chain=ETH">
+                    <img src="/img/partner/pinksale.png" alt="" />
+                    </a>
                   </li>
-                ))}
+                  <li key="coinscope">
+                    <img src="/img/partner/aimails.png"alt="" />
+                  </li>
+                  <li key="">
+                    <img src="/img/partner/gotbit.svg" alt="" />
+                  </li>
+                  <li key="">
+                    <img src="/img/partner/fleamint.png" alt="" />
+                  </li>
+              </ul>
               </ul>
             </div>
           </div>
