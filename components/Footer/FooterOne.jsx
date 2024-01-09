@@ -117,6 +117,7 @@ const FooterOne = () => {
               <div className="col-lg-6">
                 <div className="copyright-text">
                   <p>Copyright &copy; 2023. All Rights Reserved InstaDEX.Finance</p>
+                  <p>Powered by GotBit</p>
                 </div>
               </div>
               <div className="col-lg-6 d-none d-sm-block">
