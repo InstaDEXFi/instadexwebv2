@@ -37,11 +37,6 @@ const FooterOne = () => {
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.linkedin.com/company/instadexfi">
-                          <i className="fab fa-linkedin-in"></i>
-                        </a>
-                      </li>
-                      <li>
                         <a href="https://t.me/instadexfi">
                           <i className="fab fa-telegram-plane"></i>
                         </a>
